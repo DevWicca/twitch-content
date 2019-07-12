@@ -1,0 +1,14 @@
+set leng
+document.querySelector("[data-test-selector=language-select-menu__toggle-button]").click()
+document.querySelector("#eebca2fc229fd1e5059ca962c8ea87e0").click()
+
+https://www.twitch.tv/directory/game/Teamfight%20Tactics/clips?range=trending
+
+document.querySelectorAll("[data-a-target=preview-card-image-link]")
+window.open(document.getElementsByTagName("video")[0].src)
+
+to get what ever the title is
+a[1].querySelector("[alt]").alt
+
+to get what ever ths channle is 
+a[0].parentNode.parentElement.querySelector("[data-a-target=preview-card-channel-link]").innerText
